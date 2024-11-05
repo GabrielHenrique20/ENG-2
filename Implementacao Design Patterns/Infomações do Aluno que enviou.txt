@@ -1,0 +1,3 @@
+Nome: Gabriel Henrique Vieira de Oliveira - 775799
+Data: 07/11/2024
+Matéria: Engenharia de Sofware II - Atividade avaliativa (Implementacao Design Patterns)
